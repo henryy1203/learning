@@ -1,1 +1,1 @@
-marcelmaatkamp/freeradius:latest
+FreeRADIUS/freeradius-server
