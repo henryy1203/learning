@@ -1,1 +1,1 @@
-marcelmaatkamp/freeradius:latest
+freeradius:latest
